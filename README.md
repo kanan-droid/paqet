@@ -2,7 +2,7 @@
 
 [![Go Version](https://img.shields.io/badge/go-1.27+-blue.svg)](https://golang.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+shit
 paqet is a raw-packet proxy that tunnels traffic inside raw TCP packets. Instead of relying on the host's TCP/IP stack, it crafts and captures packets directly, while KCP provides fast, reliable, encrypted transport.
 
 > [!WARNING]
